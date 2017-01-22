@@ -9,7 +9,7 @@ public enum Rank implements Displayable
     IMPOSTOR("an", "Impostor", Type.PLAYER, "Imp", ChatColor.YELLOW),
     NON_OP("a", "Non-Op", Type.PLAYER, "", ChatColor.GREEN),
     OP("an", "Op", Type.PLAYER, "OP", ChatColor.RED),
-    HERO_ADMIN("a", "Hero Admin", Type.ADMIN, "HA", ChatColor.PURPLE),
+    HERO_ADMIN("a", "Hero Admin", Type.ADMIN, "HA", ChatColor.DARK_PURPLE),
     ULTRA_ADMIN("a", "Ultra Admin", Type.ADMIN, "UA", ChatColor.AQUA),
     ETERNAL_ADMIN("a", "Eternal Admin", Type.ADMIN, "EA", ChatColor.DARK_AQUA),
     TELNET_CONSOLE("the", "Console", Type.ADMIN_CONSOLE, "Console", ChatColor.DARK_PURPLE),
